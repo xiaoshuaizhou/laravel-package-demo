@@ -1,5 +1,5 @@
 ### Laravel 扩展之 加密包（md5）
-
+[![Build Status](https://travis-ci.org/xiaoshuaizhou/laravel-package-demo.svg?branch=master)](https://travis-ci.org/xiaoshuaizhou/laravel-package-demo)
 #### 用法：
 ```php
 composer require zhouxiaoshuai/hasher
