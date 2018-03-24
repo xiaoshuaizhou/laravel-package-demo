@@ -1,4 +1,5 @@
 ### Laravel 扩展之 加密包（md5）
+
 #### 用法：
 ```php
 composer require zhouxiaoshuai/hasher
