@@ -17,7 +17,7 @@
         <whitelist>
             <directory suffix=".php">src/</directory>
             <exclude>
-                <directory suffix="Provider.php">src/</directory>
+                <directory suffix="MD5HasherProvider.php">src/</directory>
             </exclude>
         </whitelist>
     </filter>
